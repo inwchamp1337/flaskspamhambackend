@@ -10,15 +10,21 @@ To install the necessary dependencies, run the following command:
 pip install -r requirements.txt
 Running the Application
 To start the Flask application, use the command:
+```
+```bash
 
-bash
-คัดลอกโค้ด
 python flask_app.py
+```
 Directory Structure
-bash
-คัดลอกโค้ด
+
+```
+
+```bash
 flaskAispam/
 │
 ├── flask_app.py          # Main Flask application
 ├── requirements.txt      # List of dependencies
-└── README.md             # This documentation
+├── README.md             # This documentation
+├── tfidf_vectorizer.pkl
+└──thai_spam_naive_bayes_model.pkl 
+```
