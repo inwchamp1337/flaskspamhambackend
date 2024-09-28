@@ -38,8 +38,8 @@ def predict():
 
 @app.route('/')
 def hello_world():
-    return 'Hello from Flask!'
+    return 'เข้ามาทำไม'
 
 # Run the Flask app
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
