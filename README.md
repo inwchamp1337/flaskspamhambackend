@@ -5,6 +5,8 @@
 
 ## Requirements
 To install the necessary dependencies, run the following command:
+https://web-app-host-39147.web.app/
+![image](https://github.com/user-attachments/assets/3baed59b-190e-4931-a540-ce2cfa54f40c)
 
 ```bash
 pip install -r requirements.txt
