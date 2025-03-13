@@ -1,11 +1,11 @@
 # flaskAispam
-
+https://web-app-host-39147.web.app/
 ## Overview
 `flaskAispam` is a simple Flask application designed to demonstrate spam detection functionality.
 
 ## Requirements
 To install the necessary dependencies, run the following command:
-https://web-app-host-39147.web.app/
+
 ![image](https://github.com/user-attachments/assets/3baed59b-190e-4931-a540-ce2cfa54f40c)
 
 ```bash
